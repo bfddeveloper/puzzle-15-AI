@@ -14,6 +14,7 @@
 		3474E59F2B50453C00ED0C09 /* puzzle_15_AITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3474E59E2B50453C00ED0C09 /* puzzle_15_AITests.swift */; };
 		3474E5A92B50453C00ED0C09 /* puzzle_15_AIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3474E5A82B50453C00ED0C09 /* puzzle_15_AIUITests.swift */; };
 		3474E5AB2B50453C00ED0C09 /* puzzle_15_AIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3474E5AA2B50453C00ED0C09 /* puzzle_15_AIUITestsLaunchTests.swift */; };
+		34B144A52B6955460096213C /* Sounds in Resources */ = {isa = PBXBuildFile; fileRef = 34B144A42B6955460096213C /* Sounds */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		3474E5A42B50453C00ED0C09 /* puzzle 15 AIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "puzzle 15 AIUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3474E5A82B50453C00ED0C09 /* puzzle_15_AIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = puzzle_15_AIUITests.swift; sourceTree = "<group>"; };
 		3474E5AA2B50453C00ED0C09 /* puzzle_15_AIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = puzzle_15_AIUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		34B144A42B6955460096213C /* Sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Sounds; path = ../../../Sounds; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				3474E58D2B50453200ED0C09 /* puzzle_15_AIApp.swift */,
 				3474E58F2B50453200ED0C09 /* ContentView.swift */,
+				34B144A42B6955460096213C /* Sounds */,
 				3474E5912B50453C00ED0C09 /* Assets.xcassets */,
 				3474E5932B50453C00ED0C09 /* Preview Content */,
 			);
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3474E5952B50453C00ED0C09 /* Preview Assets.xcassets in Resources */,
+				34B144A52B6955460096213C /* Sounds in Resources */,
 				3474E5922B50453C00ED0C09 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

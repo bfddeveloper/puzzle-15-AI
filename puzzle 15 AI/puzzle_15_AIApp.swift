@@ -11,7 +11,7 @@ import SwiftUI
 struct puzzle_15_AIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PuzzleView()
         }
     }
 }
